@@ -1,7 +1,7 @@
 name: Latest stack overflow activity
 on:
   schedule:
-    # Runs every 5 minutes
+    # Runs every hour, on the hour
     - cron: '0 * * * *'
 
 jobs:
