@@ -16,8 +16,7 @@
 - [Answer by Mike1936 for How to properly document query params(search, filtering) Django Rest Framework?](https://stackoverflow.com/questions/53281116/how-to-properly-document-query-paramssearch-filtering-django-rest-framework/64709509#64709509)
 <!-- STACKOVERFLOW:END -->
 
----
-[![Mike1936's github stats](https://github-readme-stats.vercel.app/api?username=mike1936)](https://github.com/anuraghazra/github-readme-stats)
+[![Mike1936's github stats](https://github-readme-stats.vercel.app/api?username=mike1936&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mike1936/mike1936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
