@@ -7,12 +7,11 @@
 - 📫 How to reach me: hzx.mike@foxmail.com
 - 😄 Pronouns: native Mandarin, fluent Cantonese, intemediate English and little bit Japanese/Korean
 
-### Blog posts
+### StackOverflow Activity
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Mike1936 for How to properly document query params(search, filtering) Django Rest Framework?](https://stackoverflow.com/questions/53281116/how-to-properly-document-query-paramssearch-filtering-django-rest-framework/64709509#64709509)
 <!-- BLOG-POST-LIST:END -->
 
-### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
