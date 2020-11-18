@@ -7,9 +7,13 @@
 - 📫 How to reach me: hzx.mike@foxmail.com
 - 😄 Pronouns: native Mandarin, fluent Cantonese, intemediate English and little bit Japanese/Korean
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 <!--
 **mike1936/mike1936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
