@@ -13,6 +13,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Mike1936 for Pylint Error: Attempted relative import beyond top-level package](https://stackoverflow.com/questions/63391150/pylint-error-attempted-relative-import-beyond-top-level-package/65102636#65102636)
 - [Answer by Mike1936 for How to properly document query params(search, filtering) Django Rest Framework?](https://stackoverflow.com/questions/53281116/how-to-properly-document-query-paramssearch-filtering-django-rest-framework/64709509#64709509)
 <!-- STACKOVERFLOW:END -->
 
