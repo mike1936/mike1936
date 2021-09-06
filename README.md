@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on some open source project to improve my code sense to write code as asset not debt
 - 🤔 I’m looking for help with my career path and future development
 - 📫 How to reach me: hzx.mike@foxmail.com
-- 😄 Pronouns: native Mandarin, fluent Cantonese, intemediate English and little bit Japanese/Korean
+- 😄 Pronouns: native Mandarin, fluent Cantonese, intermediate English and little bit Japanese/Korean
 
 ### StackOverflow Activity
 <!-- BLOG-POST-LIST:START -->
